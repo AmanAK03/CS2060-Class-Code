@@ -6,6 +6,9 @@
 int main( void )
 {
    printf( "Welcome to C!\n" );
+   int length = 0;
+   int width = 0;
+   int area = 0;
 } // end function main 
 
 
